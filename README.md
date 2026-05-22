@@ -48,7 +48,7 @@ pip install mpmath numpy scipy rich
 Run the evaluator:
 
 ```bash
-python "Check Point(7).py"
+python "Check Point.py"
 ```
 
 The script prints the compact formula map, upstream ledger quantities, Schur determinant components, final mass ratios, MeV conversion, and external comparison table.
