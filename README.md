@@ -1,5 +1,7 @@
 # Charged-Lepton Mass Hierarchy Law
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pajuhaan/Charged-Lepton-Mass-Hierarchy-Public)
+
 Minimal repository companion for the numerical evaluator of the charged-lepton mass hierarchy law by **M. Pajuhaan**.
 
 The calculation implements a no-target Relator/Alpha source-ledger model. The only supplied dimensionless theory input is
@@ -72,5 +74,3 @@ Please cite the manuscript and repository output when using these calculations.
 Scientific framework, formulas, numerical ledger, and manuscript credit belong to **M. Pajuhaan**.
 
 Copyright © 2026 **M. Pajuhaan**. All rights reserved unless a separate `LICENSE` file in this repository states otherwise.
-
-
